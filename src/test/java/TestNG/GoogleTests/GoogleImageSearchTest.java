@@ -30,6 +30,7 @@ public class GoogleImageSearchTest extends BaseTestCase{
     public void testSearchCoiipaImage() throws Exception {
 
         String expectedURL = "http://coiipa.org/";
+        //testcase2 test
 
         GoogleSearchImagesPage googleImageSearch = new GoogleSearchImagesPage(driver);
 
